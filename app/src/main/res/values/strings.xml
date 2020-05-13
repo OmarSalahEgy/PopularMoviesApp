@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="overView">Movie overView</string>
+    <string name="rating">Movie Ratind</string>
+    <string name="release_date">Release Date</string>
+    <string name="pop_mov">popular</string>
+    <string name="top_mov">top</string>
+    <string name="favorite">Marks As Favorit</string>
+    <string name="reviews">Reviews</string>
+    <string name="fav_movies">favorite</string>
+    <string name="trailer">Trailer</string>
+</resources>
